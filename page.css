@@ -1,0 +1,10 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+}
+.header{
+    background-color: blueviolet;
+    color:red;
+    padding: 10ox;
+    text-align: center;
+}
